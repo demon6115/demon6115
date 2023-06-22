@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naveen Kumar
 - 👀 I’m interested in Data Structures and Algorithms, Python, C++. 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Full Stack Development.
 - 📫 How to reach me @linkedIn - linkedin.com/in/naveenkumar6115
 
 <!---
